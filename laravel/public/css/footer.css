@@ -1,0 +1,39 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+
+.list {
+    float: right;
+    margin-right: 1%;
+}
+
+.social {
+    text-decoration: none;
+    background-color: black;
+    color: white;
+    padding: 5px 20px;
+    transition: 0.7s ease;
+    display: inline;
+}
+
+.social:hover {
+    background-color: white;
+    color: black;
+}
+
+footer {
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+
+}
+
+.icone {
+    font-size: 15px;
+    list-style: none;
+}
